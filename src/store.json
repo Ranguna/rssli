@@ -1,0 +1,14 @@
+{
+  "feedCollection": {
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCHL9bfHTxCMi-7vfxQ-AYtg": {
+      "categories": ["media", "travel", "entertainment", "all"],
+      "title": "Abroad in Japan",
+      "history": []
+    },
+    "https://hnrss.org/frontpage": {
+      "categories": ["tech", "all"],
+      "title": "Hacker News: Front Page",
+      "history": []
+    }
+  }
+}

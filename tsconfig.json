@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "strict": true,
+    "target": "esnext",
+    "allowJs": false,
+    "resolveJsonModule": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
+    "baseUrl": "./src",
+    "paths": {
+      "~/*": ["*"]
+    }
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ]
+}
